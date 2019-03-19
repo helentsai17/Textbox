@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "419921754245",
+    "firebase_url": "https://chatmessage-1b0c5.firebaseio.com",
+    "project_id": "chatmessage-1b0c5",
+    "storage_bucket": "chatmessage-1b0c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419921754245:android:f4f3147e39a8f109",
+        "android_client_info": {
+          "package_name": "tom.com.textbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419921754245-vejue24cbq363hsv0o81nsmh392lb5j6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tom.com.textbox",
+            "certificate_hash": "f5aea8a58aac63ec3849670796c82aefc586ab56"
+          }
+        },
+        {
+          "client_id": "419921754245-2v7l08klqe5a5evhea23l4uova36h1jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH5rw4g9miGMiQM1twBuOSOYoDn535u-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419921754245-2v7l08klqe5a5evhea23l4uova36h1jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
